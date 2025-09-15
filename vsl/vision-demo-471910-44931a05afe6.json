@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vision-demo-471910",
+  "private_key_id": "44931a05afe674c1bbb8425dfb547597c6492cd9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCbANfhvz0+TaRu\nrpjCuY4XGDAjVNYgyimqs1K8JLqb3xsvXWj7L65rhn25+tkxYc0RhkEqlqBIBYcW\nLgD5VDTbja1Jp4sfBbIX09xynh5zmTYQn2DZO/4+1Ip56qZEOJs3AjJG2tWHPp+l\nbAZfRaA68qyrlSnMGA90rgGVOBUhHb6X6s6Dt+obrfDS1B/d+N9RWQkcCamIUvIS\nW1hRB4Ya2+qyuOP4l1AFVkZE3KSq1k7B/CZnNi/4Uu2zTBLj6oHLQYUhCrYjTd8v\nJ2BPQjl/xYwPldRGQ8FgWrrrcGb/ZxuwNvREGW/Hsn5HXT+/HHMGRjNWC7Pc+zX4\nbMjUANW1AgMBAAECggEAEat78LkrUyHov9FZisE6aHmSa0StkFlbfKEqqlYJi+FY\nKQMeB5x85rcTOBNXlSCQDxJd9WvsY6l1p9qgs8ucpva0rXPTETtF/R9ivxI1aHor\nxqNUmA8VwbXa/2D3iUlmsFOoxZkGxH8oFeSFqXC3fmDRvFGpzSFlCakYdxlIl1iu\nLy1nKlibGc0/a2ww8PqwGqY+18Swyc4BDp71ccU6VCHoPPWNhe191DbovpKLeboL\nqq8OShF0u/h+BQdoKeB+yAu1ZytHS4wC3HCgdrgw7yPgzCZcKu58KbnjeE4SHr0O\nA4RASn+iKMKv0UG5c8q7Bhca6wYSFvp0R/Np9fUF9QKBgQDVIWIYgqq1lQ/clTsu\nveidntwTYNayqvhUIavDLfMvvoHAreCnPP/Tpo+7x1EEq6C82oStPyeYCovXtavX\nLWQJQZ7J3ZKNO8POewrfucaxV6W8NKhUrj9J3uLdV5fDa9lsQDNNXQEZHAUBRnzT\nhNgJ9KFq4lZdDC9IhyS1KM3IYwKBgQC6LlmeMq0ki0QFWKWBRpdLn2yh6qOTt3aM\nX+mGGoYzBTTEdaeqgQfrm29ewC66iyrUzOLLdXAe6+toc2IIv/6MzfHnigibzcLL\npHgqqukXcfB1bTzHViLbfHaxm5smyWnRRcopFlDjjuZQxKcsrlqEqLehAfI5waqu\nRtYuJL2pBwKBgQCxt/yMY6jlcT6guO94snLdvDHXFtDwexBHVyxavF4kWb7oZBUI\nXx0T57fC5RjxxAtsbupjbF4fseuaG6sG6pqX/VfjDBfAHS3RZ1hR5h+AkY1pup8C\nvamYd3rFBt1N3wiV85LT19Gqlmq1/Yjo98UNyCcxcTqCrD5hRA+f4D538QKBgGNX\ngfgYgCxkpvnXUBBHs0jlmxhWU8vo87d5IeitVHf6yiodwUYILUq5GFbNYuGkikkb\nvdPkKNxG88g68M9Maq2E4hOyol9IDi2M55WUtmUNJcnybKDMRDMrGUYxijrK88x3\nWaRMxQJ26EumcrEzoxbv03N0z2OkA8eUAoqCjjSXAoGBAJSexae+1GOZ5m8v53rg\nrlyVGcL6lssou4D7jjFwCgu7TgpDLvdAtYi0Bokp5rl54oQlRlx+wPMbfKnNA2ao\nu4AJiRZiIki32bzJB5VEMx5KqGGx0wb0WJ2fX2XHxY94jbVf2QAQIYskaAsgSSNv\nnHnrpFbskrubUOCPlhV8uN9L\n-----END PRIVATE KEY-----\n",
+  "client_email": "vision-service-account@vision-demo-471910.iam.gserviceaccount.com",
+  "client_id": "108708900473929725662",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vision-service-account%40vision-demo-471910.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
